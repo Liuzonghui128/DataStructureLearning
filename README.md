@@ -17,4 +17,4 @@ Hi, ther are some important materials for Data Stucture's learning.
 - Leedcode, https://leetcode.com
 
 
-Have a good Day :)
+Enjoy! :)
